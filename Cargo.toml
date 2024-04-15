@@ -1,11 +1,11 @@
 [package]
 name = "gsc-crypt"
-version = "3.1.13"
-authors = ["Magic Len <len@gsclen.org>"]
+version = "0.1.0"
+authors = ["putao520 <yuyao1022@hotmail.com>"]
 edition = "2021"
 rust-version = "1.61"
-repository = "https://github.com/putao520/rust-gsccrypt"
-homepage = "https://gsclen.org/aes"
+repository = "https://github.com/putao520/rust-gsc-crypt"
+homepage = "https://github.com/putao520/rust-gsc-crypt"
 keywords = ["crypto", "cryptojs", "aes", "des", "encrypt"]
 categories = ["no-std" ,"algorithms", "cryptography"]
 description = "GscCrypt is a Rust library to encrypt/decrpyt strings, files, or data, using Data Encryption Standard(DES) or Advanced Encryption Standard(AES) algorithms. It supports CBC block cipher mode, PKCS5 padding and 64, 128, 192 or 256-bits key length. It's Compatible with the default AES parameter mode in CryptoJS"
